@@ -6,9 +6,9 @@
 
 ### A bit about me:
 
--   Nationality: 🇨🇦/🇮🇪
+-   Nationality: 🇮🇳
 -   Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
--   Countries I've visited: 🇨🇦 🇹🇭 🇲🇾 🇻🇳 🇰🇭 🇮🇩 🇺🇸
+-   Countries interested in visiting: 🇨🇦 🇹🇭 🇲🇾 🇻🇳 🇰🇭 🇮🇩 🇺🇸
 -   Current location: 📍 Delhi, IN
 
 🌎 Check my [portfolio](https://github.com/nishitchittora)
