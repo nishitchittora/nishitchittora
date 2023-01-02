@@ -1,8 +1,8 @@
 # Hey there, feel free to check out what I've been up to!
 
-## Full Stack Software Engineer
+## Web3 and Full Stack Software Engineer
 
-💻 I'm currently working at [Instant Domains](https://github.com/nishitchittora), helping people find the perfect domain and set up their website, instantly ⚡️
+💻 I'm currently working at [Chainlyzer Solutions](https://chainlyzer.com/), helping companies write bug-free, secure Dapps(Decentralized Apps), Quickly ⚡️
 
 ### A bit about me:
 
